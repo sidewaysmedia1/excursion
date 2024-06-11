@@ -4,12 +4,12 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;  
 
 }
- */HEARER--MAIN/*
+ 
 
 .header--main {
     font-weight: normal;
     font-size: 50px;
-    color: #ffffff;
+    color: white;
 }
 
 .header--secondary {
@@ -21,10 +21,10 @@ body {
 .header--sub-header {
   font-size: 21px;
   color: grey;
-  
+
 }
 
- */LINK/*
+ 
 
     .link--cta {
         font-size: 16px;  
