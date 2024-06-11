@@ -31,6 +31,12 @@ body {
         color: aquamarine;
     }
 
+    .footer-copy-right {
+      font-size: 21px;
+  color: grey;
+  text-align: right;
+    }
+
 
 
 
